@@ -1,0 +1,562 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ce9a0026-d895-44cb-bd26-92aefe482db8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Week2/funsets/.idea/hydra.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week2/funsets/.idea/libraries/sbt__junit_junit_4_10_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week2/funsets/.idea/libraries/sbt__org_hamcrest_hamcrest_core_1_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week2/funsets/.idea/libraries/sbt__org_scala_lang_modules_scala_parser_combinators_2_11_1_0_4_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week2/funsets/.idea/libraries/sbt__org_scala_lang_modules_scala_xml_2_11_1_0_2_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week2/funsets/.idea/libraries/sbt__org_scala_lang_scala_library_2_11_12_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week2/funsets/.idea/libraries/sbt__org_scala_lang_scala_reflect_2_11_12_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week2/funsets/.idea/libraries/sbt__org_scalatest_scalatest_2_11_2_2_4_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week2/funsets/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week2/funsets/.idea/modules/progfun1-funsets.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week2/funsets/.idea/modules/root-build.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week2/funsets/.idea/scala_compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week2/funsets/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/hydra.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__junit_junit_4_10_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_hamcrest_hamcrest_core_1_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scala_lang_modules_scala_parser_combinators_2_11_1_0_4_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scala_lang_modules_scala_xml_2_11_1_0_2_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scala_lang_scala_library_2_11_12_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scala_lang_scala_reflect_2_11_12_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scalatest_scalatest_2_11_2_2_4_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/progfun1-objsets.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/root-build.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/scala_compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../scratch/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../scratch/src/main/scala/Week2/session2_1.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../scratch/src/main/scala/Week2/session2_2.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../scratch/src/main/scala/Week3/session3_1.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../scratch/src/main/scala/Week3/session3_3.sc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week1/recfun/.idea/modules/progfun1-recfun.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week1/recfun/.idea/modules/progfun1-recfun.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week1/recfun/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week1/recfun/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week1/recfun/project/project/target/config-classes/$1481cb72c6883cac5c5f$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week1/recfun/project/project/target/config-classes/$1481cb72c6883cac5c5f$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week1/recfun/project/project/target/config-classes/$1481cb72c6883cac5c5f.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week1/recfun/project/project/target/config-classes/$1481cb72c6883cac5c5f.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week1/recfun/project/project/target/config-classes/$3f515657839499f1a232$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week1/recfun/project/project/target/config-classes/$3f515657839499f1a232$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week1/recfun/project/project/target/config-classes/$3f515657839499f1a232.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week1/recfun/project/project/target/config-classes/$3f515657839499f1a232.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week1/recfun/project/project/target/config-classes/$914721efd67e13975860$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week1/recfun/project/project/target/config-classes/$914721efd67e13975860.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week1/recfun/project/project/target/config-classes/$914721efd67e13975860.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week1/recfun/project/project/target/config-classes/$c93a551672d13118463e$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week1/recfun/project/project/target/config-classes/$c93a551672d13118463e.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week1/recfun/project/project/target/config-classes/$c93a551672d13118463e.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week1/recfun/project/project/target/config-classes/$cd0702e081063ac6fa3b$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week1/recfun/project/project/target/config-classes/$cd0702e081063ac6fa3b.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week1/recfun/project/project/target/config-classes/$cd0702e081063ac6fa3b.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week1/recfun/project/project/target/config-classes/$d34d4301d93cec60939d$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week1/recfun/project/project/target/config-classes/$d34d4301d93cec60939d$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week1/recfun/project/project/target/config-classes/$d34d4301d93cec60939d.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week1/recfun/project/project/target/config-classes/$d34d4301d93cec60939d.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week1/recfun/project/project/target/config-classes/$e304a027b7da0f8023d5$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week1/recfun/project/project/target/config-classes/$e304a027b7da0f8023d5$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week1/recfun/project/project/target/config-classes/$e304a027b7da0f8023d5.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week1/recfun/project/project/target/config-classes/$e304a027b7da0f8023d5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week1/recfun/project/target/config-classes/$189626fa543e07066bbb$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week1/recfun/project/target/config-classes/$189626fa543e07066bbb$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week1/recfun/project/target/config-classes/$189626fa543e07066bbb.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week1/recfun/project/target/config-classes/$189626fa543e07066bbb.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week1/recfun/project/target/config-classes/$1f14b7a71333da5071a8$$anonfun$$sbtdef$1$$anonfun$apply$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week1/recfun/project/target/config-classes/$1f14b7a71333da5071a8$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week1/recfun/project/target/config-classes/$1f14b7a71333da5071a8$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week1/recfun/project/target/config-classes/$1f14b7a71333da5071a8.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week1/recfun/project/target/config-classes/$1f14b7a71333da5071a8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week1/recfun/project/target/config-classes/$3b2934ff0ba531788c66$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week1/recfun/project/target/config-classes/$3b2934ff0ba531788c66$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week1/recfun/project/target/config-classes/$3b2934ff0ba531788c66.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week1/recfun/project/target/config-classes/$3b2934ff0ba531788c66.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week1/recfun/project/target/config-classes/$5a8c0a1fbefb4fd99e0c$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week1/recfun/project/target/config-classes/$5a8c0a1fbefb4fd99e0c$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week1/recfun/project/target/config-classes/$5a8c0a1fbefb4fd99e0c.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week1/recfun/project/target/config-classes/$5a8c0a1fbefb4fd99e0c.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week1/recfun/project/target/config-classes/$b4f7568f105752c8e183$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week1/recfun/project/target/config-classes/$b4f7568f105752c8e183$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week1/recfun/project/target/config-classes/$b4f7568f105752c8e183.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week1/recfun/project/target/config-classes/$b4f7568f105752c8e183.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week1/recfun/project/target/config-classes/$d22dc10424b135108513$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week1/recfun/project/target/config-classes/$d22dc10424b135108513$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week1/recfun/project/target/config-classes/$d22dc10424b135108513.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week1/recfun/project/target/config-classes/$d22dc10424b135108513.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week1/recfun/project/target/config-classes/$e05c6dd3b8f8e974d79e$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week1/recfun/project/target/config-classes/$e05c6dd3b8f8e974d79e$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week1/recfun/project/target/config-classes/$e05c6dd3b8f8e974d79e.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week1/recfun/project/target/config-classes/$e05c6dd3b8f8e974d79e.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week1/recfun/project/target/config-classes/$ee38e6d68054bf761c0e$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week1/recfun/project/target/config-classes/$ee38e6d68054bf761c0e$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week1/recfun/project/target/config-classes/$ee38e6d68054bf761c0e.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week1/recfun/project/target/config-classes/$ee38e6d68054bf761c0e.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week1/recfun/project/target/config-classes/$f3f6e774319d24e97f97$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week1/recfun/project/target/config-classes/$f3f6e774319d24e97f97$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week1/recfun/project/target/config-classes/$f3f6e774319d24e97f97.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week1/recfun/project/target/config-classes/$f3f6e774319d24e97f97.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week1/recfun/project/target/config-classes/$f691fe96886e5b92a941$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week1/recfun/project/target/config-classes/$f691fe96886e5b92a941$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week1/recfun/project/target/config-classes/$f691fe96886e5b92a941.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week1/recfun/project/target/config-classes/$f691fe96886e5b92a941.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week1/recfun/project/target/scala-2.10/sbt-0.13/resolution-cache/default/recfun-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week1/recfun/project/target/scala-2.10/sbt-0.13/resolution-cache/default/recfun-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week1/recfun/project/target/scala-2.10/sbt-0.13/resolution-cache/default/recfun-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week1/recfun/project/target/scala-2.10/sbt-0.13/resolution-cache/default/recfun-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week1/recfun/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-recfun-build-compile-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week1/recfun/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-recfun-build-compile-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week1/recfun/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-recfun-build-compile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week1/recfun/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-recfun-build-compile.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week1/recfun/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-recfun-build-docs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week1/recfun/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-recfun-build-docs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week1/recfun/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-recfun-build-optional.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week1/recfun/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-recfun-build-optional.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week1/recfun/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-recfun-build-plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week1/recfun/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-recfun-build-plugin.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week1/recfun/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-recfun-build-pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week1/recfun/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-recfun-build-pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week1/recfun/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-recfun-build-provided.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week1/recfun/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-recfun-build-provided.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week1/recfun/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-recfun-build-runtime-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week1/recfun/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-recfun-build-runtime-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week1/recfun/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-recfun-build-runtime.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week1/recfun/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-recfun-build-runtime.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week1/recfun/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-recfun-build-scala-tool.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week1/recfun/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-recfun-build-scala-tool.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week1/recfun/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-recfun-build-sources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week1/recfun/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-recfun-build-sources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week1/recfun/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-recfun-build-test-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week1/recfun/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-recfun-build-test-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week1/recfun/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-recfun-build-test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week1/recfun/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-recfun-build-test.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week1/recfun/project/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.10/output_dsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week1/recfun/project/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.10/output_dsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week1/recfun/project/target/streams/$global/ivyConfiguration/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week1/recfun/project/target/streams/$global/ivyConfiguration/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week1/recfun/project/target/streams/$global/update/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week1/recfun/project/target/streams/$global/update/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week1/recfun/project/target/streams/$global/update/$global/streams/update_cache_2.10/inputs" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week1/recfun/project/target/streams/$global/update/$global/streams/update_cache_2.10/inputs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week1/recfun/project/target/streams/$global/update/$global/streams/update_cache_2.10/output" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week1/recfun/project/target/streams/$global/update/$global/streams/update_cache_2.10/output" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week1/recfun/project/target/streams/compile/compileIncremental/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week1/recfun/project/target/streams/compile/compileIncremental/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week1/recfun/project/target/streams/compile/compileIncremental/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week1/recfun/project/target/streams/compile/compileIncremental/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week1/recfun/project/target/streams/compile/copyResources/$global/streams/copy-resources" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week1/recfun/project/target/streams/compile/copyResources/$global/streams/copy-resources" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week1/recfun/project/target/streams/compile/copyResources/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week1/recfun/project/target/streams/compile/copyResources/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week1/recfun/project/target/streams/compile/dependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week1/recfun/project/target/streams/compile/dependencyClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week1/recfun/project/target/streams/compile/externalDependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week1/recfun/project/target/streams/compile/externalDependencyClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week1/recfun/project/target/streams/compile/incCompileSetup/$global/streams/inc_compile_2.10" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week1/recfun/project/target/streams/compile/incCompileSetup/$global/streams/inc_compile_2.10" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week1/recfun/project/target/streams/compile/managedClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week1/recfun/project/target/streams/compile/managedClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week1/recfun/project/target/streams/runtime/dependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week1/recfun/project/target/streams/runtime/dependencyClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week1/recfun/project/target/streams/runtime/externalDependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week1/recfun/project/target/streams/runtime/externalDependencyClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week1/recfun/project/target/streams/runtime/fullClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week1/recfun/project/target/streams/runtime/fullClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week1/recfun/project/target/streams/runtime/managedClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week1/recfun/project/target/streams/runtime/managedClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../scratch/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../scratch/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/project/project/target/" />
+    <ignored path="$PROJECT_DIR$/project/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1689917871">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.0" value="2" />
+          <entry key="project.open.time.17" value="1" />
+          <entry key="project.open.time.19" value="1" />
+          <entry key="project.opened" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="scala" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Scala" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="sbtShell" value="54" />
+          <entry key="scala" value="3639" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Scala" value="3639" />
+          <entry key="sbtShell" value="54" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <splitter split-orientation="horizontal" split-proportion="0.4176218">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/test/scala/objsets/TweetSetSuite.scala">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="-300">
+                  <caret line="30" column="6" selection-start-line="30" selection-start-column="6" selection-end-line="30" selection-end-column="6" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/main/scala/objsets/TweetSet.scala">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="2910">
+                  <caret line="215" column="79" lean-forward="true" selection-start-line="215" selection-start-column="79" selection-end-line="215" selection-end-column="79" />
+                  <folding>
+                    <element signature="e#17#56#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/test/scala/objsets/TweetSetSuite.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/objsets/TweetSet.scala" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="2094" />
+    <option name="width" value="1272" />
+    <option name="height" value="716" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="objsets" type="b2602c69:ProjectViewProjectNode" />
+              <item name="objsets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="objsets" type="b2602c69:ProjectViewProjectNode" />
+              <item name="objsets" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="objsets" type="b2602c69:ProjectViewProjectNode" />
+              <item name="objsets" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="objsets" type="b2602c69:ProjectViewProjectNode" />
+              <item name="objsets" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="objsets" type="b2602c69:ProjectViewProjectNode" />
+              <item name="objsets" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="objsets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="objsets" type="b2602c69:ProjectViewProjectNode" />
+              <item name="objsets" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="objsets" type="b2602c69:ProjectViewProjectNode" />
+              <item name="objsets" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="objsets" type="b2602c69:ProjectViewProjectNode" />
+              <item name="objsets" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="objsets" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536525522143" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="objsets.Main" />
+      <module name="progfun1-objsets" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="objsets.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TweetSetSuite" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="progfun1-objsets" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="objsets.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="objsets" />
+      <option name="MAIN_CLASS_NAME" value="objsets.TweetSetSuite" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.TweetSetSuite" />
+      <item itemvalue="Application.Main" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.TweetSetSuite" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="progfun1-objsets" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="root [file:/home/nathan/Programming/scala_specialization/Part1/Week3/objsets/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="root-build [file:/home/nathan/Programming/scala_specialization/Part1/Week3/objsets/]" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="18233173012000" />
+        <entry key="$PROJECT_DIR$/build.sbt" value="2315116761" />
+        <entry key="$PROJECT_DIR$/project/CommonBuild.scala" value="2571602370" />
+        <entry key="$PROJECT_DIR$/project/Courses.scala" value="3825051450" />
+        <entry key="$PROJECT_DIR$/project/GradingFeedback.scala" value="647646337" />
+        <entry key="$PROJECT_DIR$/project/ScalaTestRunner.scala" value="1073251015" />
+        <entry key="$PROJECT_DIR$/project/Settings.scala" value="3896389775" />
+        <entry key="$PROJECT_DIR$/project/StudentBuild.scala" value="2270748580" />
+        <entry key="$PROJECT_DIR$/project/StudentBuildLike.scala" value="1951503120" />
+        <entry key="$PROJECT_DIR$/project/StyleChecker.scala" value="3016454982" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="1075804536" />
+        <entry key="$PROJECT_DIR$/project/buildSettings.sbt" value="2557134551" />
+        <entry key="$PROJECT_DIR$/project/plugins.sbt" value="2764601182" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../../Week1/example" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../Week1/recfun" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../Week2/funsets" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ce9a0026-d895-44cb-bd26-92aefe482db8" name="Default Changelist" comment="" />
+      <created>1536268455369</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1536268455369</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="TweetSetSuite - 2018.09.07 at 13h 43m 20s.xml">
+      <configuration name="TweetSetSuite" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TweetSetSuite - 2018.09.07 at 15h 25m 38s.xml">
+      <configuration name="TweetSetSuite" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TweetSetSuite - 2018.09.07 at 16h 47m 56s.xml">
+      <configuration name="TweetSetSuite" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TweetSetSuite - 2018.09.07 at 17h 18m 27s.xml">
+      <configuration name="TweetSetSuite" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TweetSetSuite - 2018.09.07 at 17h 18m 54s.xml">
+      <configuration name="TweetSetSuite" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TweetSetSuite - 2018.09.07 at 17h 20m 29s.xml">
+      <configuration name="TweetSetSuite" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TweetSetSuite - 2018.09.07 at 17h 20m 58s.xml">
+      <configuration name="TweetSetSuite" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TweetSetSuite - 2018.09.08 at 15h 08m 33s.xml">
+      <configuration name="TweetSetSuite" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TweetSetSuite - 2018.09.08 at 15h 10m 13s.xml">
+      <configuration name="TweetSetSuite" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TweetSetSuite - 2018.09.08 at 15h 10m 57s.xml">
+      <configuration name="TweetSetSuite" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1916" y="0" width="1928" height="1084" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25773746" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info active="true" anchor="bottom" id="Find" order="1" visible="true" weight="0.32912722" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4994664" weight="0.41226575" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39957938" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Build" order="7" weight="0.32948583" />
+      <window_info anchor="bottom" id="sbt-shell-toolwindow" order="8" weight="0.32912722" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50053364" side_tool="true" weight="0.25446898" />
+      <window_info anchor="bottom" id="Version Control" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32912722" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="sbt" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Maven Projects" order="6" />
+      <window_info anchor="right" id="Gradle" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/objsets/TweetData.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/scala/objsets/TweetSetSuite.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-300">
+          <caret line="30" column="6" selection-start-line="30" selection-start-column="6" selection-end-line="30" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/objsets/TweetSet.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2910">
+          <caret line="215" column="79" lean-forward="true" selection-start-line="215" selection-start-column="79" selection-end-line="215" selection-end-column="79" />
+          <folding>
+            <element signature="e#17#56#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>10</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
