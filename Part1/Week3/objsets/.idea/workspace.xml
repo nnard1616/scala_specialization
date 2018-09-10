@@ -2,138 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ce9a0026-d895-44cb-bd26-92aefe482db8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../Week2/funsets/.idea/hydra.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Week2/funsets/.idea/libraries/sbt__junit_junit_4_10_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Week2/funsets/.idea/libraries/sbt__org_hamcrest_hamcrest_core_1_1_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Week2/funsets/.idea/libraries/sbt__org_scala_lang_modules_scala_parser_combinators_2_11_1_0_4_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Week2/funsets/.idea/libraries/sbt__org_scala_lang_modules_scala_xml_2_11_1_0_2_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Week2/funsets/.idea/libraries/sbt__org_scala_lang_scala_library_2_11_12_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Week2/funsets/.idea/libraries/sbt__org_scala_lang_scala_reflect_2_11_12_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Week2/funsets/.idea/libraries/sbt__org_scalatest_scalatest_2_11_2_2_4_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Week2/funsets/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Week2/funsets/.idea/modules/progfun1-funsets.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Week2/funsets/.idea/modules/root-build.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Week2/funsets/.idea/scala_compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Week2/funsets/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/hydra.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__junit_junit_4_10_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_hamcrest_hamcrest_core_1_1_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scala_lang_modules_scala_parser_combinators_2_11_1_0_4_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scala_lang_modules_scala_xml_2_11_1_0_2_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scala_lang_scala_library_2_11_12_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scala_lang_scala_reflect_2_11_12_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scalatest_scalatest_2_11_2_2_4_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/progfun1-objsets.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/root-build.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/scala_compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../scratch/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../scratch/src/main/scala/Week2/session2_1.sc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../scratch/src/main/scala/Week2/session2_2.sc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../scratch/src/main/scala/Week3/session3_1.sc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../scratch/src/main/scala/Week3/session3_3.sc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Week1/recfun/.idea/modules/progfun1-recfun.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week1/recfun/.idea/modules/progfun1-recfun.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Week1/recfun/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week1/recfun/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Week1/recfun/project/project/target/config-classes/$1481cb72c6883cac5c5f$$anonfun$$sbtdef$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Week1/recfun/project/project/target/config-classes/$1481cb72c6883cac5c5f$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Week1/recfun/project/project/target/config-classes/$1481cb72c6883cac5c5f.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Week1/recfun/project/project/target/config-classes/$1481cb72c6883cac5c5f.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Week1/recfun/project/project/target/config-classes/$3f515657839499f1a232$$anonfun$$sbtdef$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Week1/recfun/project/project/target/config-classes/$3f515657839499f1a232$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Week1/recfun/project/project/target/config-classes/$3f515657839499f1a232.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Week1/recfun/project/project/target/config-classes/$3f515657839499f1a232.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Week1/recfun/project/project/target/config-classes/$914721efd67e13975860$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Week1/recfun/project/project/target/config-classes/$914721efd67e13975860.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Week1/recfun/project/project/target/config-classes/$914721efd67e13975860.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Week1/recfun/project/project/target/config-classes/$c93a551672d13118463e$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Week1/recfun/project/project/target/config-classes/$c93a551672d13118463e.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Week1/recfun/project/project/target/config-classes/$c93a551672d13118463e.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Week1/recfun/project/project/target/config-classes/$cd0702e081063ac6fa3b$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Week1/recfun/project/project/target/config-classes/$cd0702e081063ac6fa3b.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Week1/recfun/project/project/target/config-classes/$cd0702e081063ac6fa3b.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Week1/recfun/project/project/target/config-classes/$d34d4301d93cec60939d$$anonfun$$sbtdef$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Week1/recfun/project/project/target/config-classes/$d34d4301d93cec60939d$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Week1/recfun/project/project/target/config-classes/$d34d4301d93cec60939d.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Week1/recfun/project/project/target/config-classes/$d34d4301d93cec60939d.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Week1/recfun/project/project/target/config-classes/$e304a027b7da0f8023d5$$anonfun$$sbtdef$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Week1/recfun/project/project/target/config-classes/$e304a027b7da0f8023d5$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Week1/recfun/project/project/target/config-classes/$e304a027b7da0f8023d5.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Week1/recfun/project/project/target/config-classes/$e304a027b7da0f8023d5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Week1/recfun/project/target/config-classes/$189626fa543e07066bbb$$anonfun$$sbtdef$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Week1/recfun/project/target/config-classes/$189626fa543e07066bbb$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Week1/recfun/project/target/config-classes/$189626fa543e07066bbb.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Week1/recfun/project/target/config-classes/$189626fa543e07066bbb.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Week1/recfun/project/target/config-classes/$1f14b7a71333da5071a8$$anonfun$$sbtdef$1$$anonfun$apply$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Week1/recfun/project/target/config-classes/$1f14b7a71333da5071a8$$anonfun$$sbtdef$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Week1/recfun/project/target/config-classes/$1f14b7a71333da5071a8$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Week1/recfun/project/target/config-classes/$1f14b7a71333da5071a8.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Week1/recfun/project/target/config-classes/$1f14b7a71333da5071a8.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Week1/recfun/project/target/config-classes/$3b2934ff0ba531788c66$$anonfun$$sbtdef$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Week1/recfun/project/target/config-classes/$3b2934ff0ba531788c66$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Week1/recfun/project/target/config-classes/$3b2934ff0ba531788c66.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Week1/recfun/project/target/config-classes/$3b2934ff0ba531788c66.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Week1/recfun/project/target/config-classes/$5a8c0a1fbefb4fd99e0c$$anonfun$$sbtdef$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Week1/recfun/project/target/config-classes/$5a8c0a1fbefb4fd99e0c$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Week1/recfun/project/target/config-classes/$5a8c0a1fbefb4fd99e0c.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Week1/recfun/project/target/config-classes/$5a8c0a1fbefb4fd99e0c.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Week1/recfun/project/target/config-classes/$b4f7568f105752c8e183$$anonfun$$sbtdef$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Week1/recfun/project/target/config-classes/$b4f7568f105752c8e183$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Week1/recfun/project/target/config-classes/$b4f7568f105752c8e183.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Week1/recfun/project/target/config-classes/$b4f7568f105752c8e183.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Week1/recfun/project/target/config-classes/$d22dc10424b135108513$$anonfun$$sbtdef$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Week1/recfun/project/target/config-classes/$d22dc10424b135108513$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Week1/recfun/project/target/config-classes/$d22dc10424b135108513.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Week1/recfun/project/target/config-classes/$d22dc10424b135108513.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Week1/recfun/project/target/config-classes/$e05c6dd3b8f8e974d79e$$anonfun$$sbtdef$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Week1/recfun/project/target/config-classes/$e05c6dd3b8f8e974d79e$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Week1/recfun/project/target/config-classes/$e05c6dd3b8f8e974d79e.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Week1/recfun/project/target/config-classes/$e05c6dd3b8f8e974d79e.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Week1/recfun/project/target/config-classes/$ee38e6d68054bf761c0e$$anonfun$$sbtdef$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Week1/recfun/project/target/config-classes/$ee38e6d68054bf761c0e$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Week1/recfun/project/target/config-classes/$ee38e6d68054bf761c0e.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Week1/recfun/project/target/config-classes/$ee38e6d68054bf761c0e.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Week1/recfun/project/target/config-classes/$f3f6e774319d24e97f97$$anonfun$$sbtdef$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Week1/recfun/project/target/config-classes/$f3f6e774319d24e97f97$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Week1/recfun/project/target/config-classes/$f3f6e774319d24e97f97.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Week1/recfun/project/target/config-classes/$f3f6e774319d24e97f97.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Week1/recfun/project/target/config-classes/$f691fe96886e5b92a941$$anonfun$$sbtdef$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Week1/recfun/project/target/config-classes/$f691fe96886e5b92a941$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Week1/recfun/project/target/config-classes/$f691fe96886e5b92a941.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Week1/recfun/project/target/config-classes/$f691fe96886e5b92a941.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Week1/recfun/project/target/scala-2.10/sbt-0.13/resolution-cache/default/recfun-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week1/recfun/project/target/scala-2.10/sbt-0.13/resolution-cache/default/recfun-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Week1/recfun/project/target/scala-2.10/sbt-0.13/resolution-cache/default/recfun-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week1/recfun/project/target/scala-2.10/sbt-0.13/resolution-cache/default/recfun-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Week1/recfun/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-recfun-build-compile-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week1/recfun/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-recfun-build-compile-internal.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Week1/recfun/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-recfun-build-compile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week1/recfun/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-recfun-build-compile.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Week1/recfun/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-recfun-build-docs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week1/recfun/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-recfun-build-docs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Week1/recfun/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-recfun-build-optional.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week1/recfun/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-recfun-build-optional.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Week1/recfun/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-recfun-build-plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week1/recfun/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-recfun-build-plugin.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Week1/recfun/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-recfun-build-pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week1/recfun/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-recfun-build-pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Week1/recfun/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-recfun-build-provided.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week1/recfun/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-recfun-build-provided.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Week1/recfun/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-recfun-build-runtime-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week1/recfun/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-recfun-build-runtime-internal.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Week1/recfun/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-recfun-build-runtime.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week1/recfun/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-recfun-build-runtime.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Week1/recfun/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-recfun-build-scala-tool.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week1/recfun/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-recfun-build-scala-tool.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Week1/recfun/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-recfun-build-sources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week1/recfun/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-recfun-build-sources.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Week1/recfun/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-recfun-build-test-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week1/recfun/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-recfun-build-test-internal.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Week1/recfun/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-recfun-build-test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week1/recfun/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-recfun-build-test.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Week1/recfun/project/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.10/output_dsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week1/recfun/project/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.10/output_dsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Week1/recfun/project/target/streams/$global/ivyConfiguration/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week1/recfun/project/target/streams/$global/ivyConfiguration/$global/streams/out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Week1/recfun/project/target/streams/$global/update/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week1/recfun/project/target/streams/$global/update/$global/streams/out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Week1/recfun/project/target/streams/$global/update/$global/streams/update_cache_2.10/inputs" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week1/recfun/project/target/streams/$global/update/$global/streams/update_cache_2.10/inputs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Week1/recfun/project/target/streams/$global/update/$global/streams/update_cache_2.10/output" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week1/recfun/project/target/streams/$global/update/$global/streams/update_cache_2.10/output" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Week1/recfun/project/target/streams/compile/compileIncremental/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week1/recfun/project/target/streams/compile/compileIncremental/$global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Week1/recfun/project/target/streams/compile/compileIncremental/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week1/recfun/project/target/streams/compile/compileIncremental/$global/streams/out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Week1/recfun/project/target/streams/compile/copyResources/$global/streams/copy-resources" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week1/recfun/project/target/streams/compile/copyResources/$global/streams/copy-resources" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Week1/recfun/project/target/streams/compile/copyResources/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week1/recfun/project/target/streams/compile/copyResources/$global/streams/out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Week1/recfun/project/target/streams/compile/dependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week1/recfun/project/target/streams/compile/dependencyClasspath/$global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Week1/recfun/project/target/streams/compile/externalDependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week1/recfun/project/target/streams/compile/externalDependencyClasspath/$global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Week1/recfun/project/target/streams/compile/incCompileSetup/$global/streams/inc_compile_2.10" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week1/recfun/project/target/streams/compile/incCompileSetup/$global/streams/inc_compile_2.10" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Week1/recfun/project/target/streams/compile/managedClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week1/recfun/project/target/streams/compile/managedClasspath/$global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Week1/recfun/project/target/streams/runtime/dependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week1/recfun/project/target/streams/runtime/dependencyClasspath/$global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Week1/recfun/project/target/streams/runtime/externalDependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week1/recfun/project/target/streams/runtime/externalDependencyClasspath/$global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Week1/recfun/project/target/streams/runtime/fullClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week1/recfun/project/target/streams/runtime/fullClasspath/$global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Week1/recfun/project/target/streams/runtime/managedClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week1/recfun/project/target/streams/runtime/managedClasspath/$global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../scratch/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../scratch/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/project/project/target/" />
@@ -153,7 +22,7 @@
     <session id="1689917871">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
+          <entry key="project.closed" value="4" />
           <entry key="project.open.time.0" value="2" />
           <entry key="project.open.time.17" value="1" />
           <entry key="project.open.time.19" value="1" />
@@ -204,8 +73,8 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/main/scala/objsets/TweetSet.scala">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="2910">
-                  <caret line="215" column="79" lean-forward="true" selection-start-line="215" selection-start-column="79" selection-end-line="215" selection-end-column="79" />
+                <state relative-caret-position="930">
+                  <caret line="191" column="1" lean-forward="true" selection-start-line="139" selection-end-line="191" selection-end-column="1" />
                   <folding>
                     <element signature="e#17#56#0" expanded="true" />
                   </folding>
@@ -229,7 +98,7 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="2094" />
+    <option name="x" value="-14" />
     <option name="width" value="1272" />
     <option name="height" value="716" />
   </component>
@@ -305,7 +174,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536525522143" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536527160710" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -457,7 +326,7 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1916" y="0" width="1928" height="1084" extended-state="6" />
+    <frame x="-4" y="0" width="1928" height="1084" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25773746" />
@@ -512,8 +381,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/objsets/TweetSet.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2910">
-          <caret line="215" column="79" lean-forward="true" selection-start-line="215" selection-start-column="79" selection-end-line="215" selection-end-column="79" />
+        <state relative-caret-position="930">
+          <caret line="191" column="1" lean-forward="true" selection-start-line="139" selection-end-line="191" selection-end-column="1" />
           <folding>
             <element signature="e#17#56#0" expanded="true" />
           </folding>

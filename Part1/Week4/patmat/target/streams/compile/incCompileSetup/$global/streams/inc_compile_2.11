@@ -1,0 +1,300 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /home/nathan/Programming/scala_specialization/Part1/Week4/patmat/target/scala-2.11/classes
+compile options:
+1 items
+0 -> -deprecation
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.12
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+15 items
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/common/package.scala -> /home/nathan/Programming/scala_specialization/Part1/Week4/patmat/target/scala-2.11/classes/common/package$$anonfun$subFile$1.class
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/common/package.scala -> /home/nathan/Programming/scala_specialization/Part1/Week4/patmat/target/scala-2.11/classes/common/package$.class
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/common/package.scala -> /home/nathan/Programming/scala_specialization/Part1/Week4/patmat/target/scala-2.11/classes/common/package.class
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/patmat/Huffman.scala -> /home/nathan/Programming/scala_specialization/Part1/Week4/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$1.class
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/patmat/Huffman.scala -> /home/nathan/Programming/scala_specialization/Part1/Week4/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$2.class
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/patmat/Huffman.scala -> /home/nathan/Programming/scala_specialization/Part1/Week4/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$createCodeTree$1.class
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/patmat/Huffman.scala -> /home/nathan/Programming/scala_specialization/Part1/Week4/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$createCodeTree$2.class
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/patmat/Huffman.scala -> /home/nathan/Programming/scala_specialization/Part1/Week4/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$times$1.class
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/patmat/Huffman.scala -> /home/nathan/Programming/scala_specialization/Part1/Week4/patmat/target/scala-2.11/classes/patmat/Huffman$.class
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/patmat/Huffman.scala -> /home/nathan/Programming/scala_specialization/Part1/Week4/patmat/target/scala-2.11/classes/patmat/Huffman$CodeTree.class
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/patmat/Huffman.scala -> /home/nathan/Programming/scala_specialization/Part1/Week4/patmat/target/scala-2.11/classes/patmat/Huffman$Fork$.class
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/patmat/Huffman.scala -> /home/nathan/Programming/scala_specialization/Part1/Week4/patmat/target/scala-2.11/classes/patmat/Huffman$Fork.class
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/patmat/Huffman.scala -> /home/nathan/Programming/scala_specialization/Part1/Week4/patmat/target/scala-2.11/classes/patmat/Huffman$Leaf$.class
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/patmat/Huffman.scala -> /home/nathan/Programming/scala_specialization/Part1/Week4/patmat/target/scala-2.11/classes/patmat/Huffman$Leaf.class
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/patmat/Huffman.scala -> /home/nathan/Programming/scala_specialization/Part1/Week4/patmat/target/scala-2.11/classes/patmat/Huffman.class
+binary dependencies:
+2 items
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/common/package.scala -> /home/nathan/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.12/scala-library-2.11.12.jar
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/patmat/Huffman.scala -> /home/nathan/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.12/scala-library-2.11.12.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+15 items
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/common/package.scala -> common.package
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/common/package.scala -> common.package$
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/common/package.scala -> common.package$$anonfun$subFile$1
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$$anonfun$1
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$$anonfun$2
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$$anonfun$createCodeTree$1
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$$anonfun$createCodeTree$2
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$$anonfun$times$1
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$CodeTree
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$Fork
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$Fork$
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$Leaf
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$Leaf$
+used names:
+179 items
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/common/package.scala -> ::
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/common/package.scala -> <init>
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/common/package.scala -> <repeated>
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/common/package.scala -> ?0
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/common/package.scala -> A
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/common/package.scala -> Any
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/common/package.scala -> AnyRef
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/common/package.scala -> B
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/common/package.scala -> Boolean
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/common/package.scala -> Class
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/common/package.scala -> File
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/common/package.scala -> FileInputStream
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/common/package.scala -> Function2
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/common/package.scala -> InputStream
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/common/package.scala -> List
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/common/package.scala -> None
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/common/package.scala -> Nothing
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/common/package.scala -> Object
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/common/package.scala -> Option
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/common/package.scala -> Predef
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/common/package.scala -> Some
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/common/package.scala -> String
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/common/package.scala -> URI
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/common/package.scala -> URL
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/common/package.scala -> _root_
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/common/package.scala -> child
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/common/package.scala -> children
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/common/package.scala -> classesDir
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/common/package.scala -> common
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/common/package.scala -> exists
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/common/package.scala -> file
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/common/package.scala -> foldLeft
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/common/package.scala -> getClass
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/common/package.scala -> getParentFile
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/common/package.scala -> getResource
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/common/package.scala -> io
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/common/package.scala -> java
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/common/package.scala -> package
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/common/package.scala -> projectDir
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/common/package.scala -> resourceFile
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/common/package.scala -> resourcePath
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/common/package.scala -> scala
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/common/package.scala -> subFile
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/common/package.scala -> toURI
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/patmat/Huffman.scala -> !=
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/patmat/Huffman.scala -> &&
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/patmat/Huffman.scala -> +
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/patmat/Huffman.scala -> ::
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/patmat/Huffman.scala -> :::
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/patmat/Huffman.scala -> <
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/patmat/Huffman.scala -> <init>
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/patmat/Huffman.scala -> <repeated>
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/patmat/Huffman.scala -> ==
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/patmat/Huffman.scala -> ???
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/patmat/Huffman.scala -> A
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/patmat/Huffman.scala -> A1
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/patmat/Huffman.scala -> AbstractFunction2
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/patmat/Huffman.scala -> AbstractFunction4
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/patmat/Huffman.scala -> Any
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/patmat/Huffman.scala -> AnyRef
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/patmat/Huffman.scala -> B
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/patmat/Huffman.scala -> Bit
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/patmat/Huffman.scala -> Boolean
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/patmat/Huffman.scala -> Char
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/patmat/Huffman.scala -> CodeTable
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/patmat/Huffman.scala -> CodeTree
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/patmat/Huffman.scala -> Fork
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/patmat/Huffman.scala -> Function1
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/patmat/Huffman.scala -> Function2
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/patmat/Huffman.scala -> Huffman
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/patmat/Huffman.scala -> IndexOutOfBoundsException
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/patmat/Huffman.scala -> Int
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/patmat/Huffman.scala -> Iterator
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/patmat/Huffman.scala -> Leaf
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/patmat/Huffman.scala -> List
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/patmat/Huffman.scala -> Map
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/patmat/Huffman.scala -> MatchError
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/patmat/Huffman.scala -> Nil
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/patmat/Huffman.scala -> None
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/patmat/Huffman.scala -> Nothing
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/patmat/Huffman.scala -> Object
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/patmat/Huffman.scala -> Pair
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/patmat/Huffman.scala -> Predef
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/patmat/Huffman.scala -> Product
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/patmat/Huffman.scala -> ScalaRunTime
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/patmat/Huffman.scala -> Serializable
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/patmat/Huffman.scala -> Some
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/patmat/Huffman.scala -> Statics
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/patmat/Huffman.scala -> String
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/patmat/Huffman.scala -> StringOps
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/patmat/Huffman.scala -> T
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/patmat/Huffman.scala -> T0
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/patmat/Huffman.scala -> T1
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/patmat/Huffman.scala -> T2
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/patmat/Huffman.scala -> T3
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/patmat/Huffman.scala -> T4
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/patmat/Huffman.scala -> Tuple2
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/patmat/Huffman.scala -> Tuple4
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/patmat/Huffman.scala -> U
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/patmat/Huffman.scala -> Unit
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/patmat/Huffman.scala -> _1
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/patmat/Huffman.scala -> _2
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/patmat/Huffman.scala -> _root_
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/patmat/Huffman.scala -> _toString
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/patmat/Huffman.scala -> anyHash
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/patmat/Huffman.scala -> apply
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/patmat/Huffman.scala -> asInstanceOf
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/patmat/Huffman.scala -> augmentString
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/patmat/Huffman.scala -> b
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/patmat/Huffman.scala -> bits
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/patmat/Huffman.scala -> bs
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/patmat/Huffman.scala -> c
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/patmat/Huffman.scala -> char
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/patmat/Huffman.scala -> chars
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/patmat/Huffman.scala -> collection
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/patmat/Huffman.scala -> combine
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/patmat/Huffman.scala -> combined
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/patmat/Huffman.scala -> common
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/patmat/Huffman.scala -> contains
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/patmat/Huffman.scala -> cs
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/patmat/Huffman.scala -> d
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/patmat/Huffman.scala -> decode
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/patmat/Huffman.scala -> eq
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/patmat/Huffman.scala -> f
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/patmat/Huffman.scala -> finalizeHash
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/patmat/Huffman.scala -> foreach
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/patmat/Huffman.scala -> fork
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/patmat/Huffman.scala -> frenchCode
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/patmat/Huffman.scala -> freqs
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/patmat/Huffman.scala -> get
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/patmat/Huffman.scala -> head
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/patmat/Huffman.scala -> immutable
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/patmat/Huffman.scala -> inLeft
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/patmat/Huffman.scala -> isEmpty
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/patmat/Huffman.scala -> isInstanceOf
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/patmat/Huffman.scala -> l
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/patmat/Huffman.scala -> left
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/patmat/Huffman.scala -> lengthCompare
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/patmat/Huffman.scala -> loop
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/patmat/Huffman.scala -> makeCodeTree
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/patmat/Huffman.scala -> makeOrderedLeafList
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/patmat/Huffman.scala -> mix
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/patmat/Huffman.scala -> mutable
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/patmat/Huffman.scala -> ne
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/patmat/Huffman.scala -> p
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/patmat/Huffman.scala -> p1
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/patmat/Huffman.scala -> p2
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/patmat/Huffman.scala -> package
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/patmat/Huffman.scala -> patmat
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/patmat/Huffman.scala -> ps
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/patmat/Huffman.scala -> right
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/patmat/Huffman.scala -> root
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/patmat/Huffman.scala -> runtime
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/patmat/Huffman.scala -> s
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/patmat/Huffman.scala -> scala
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/patmat/Huffman.scala -> secret
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/patmat/Huffman.scala -> singleton
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/patmat/Huffman.scala -> sortWith
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/patmat/Huffman.scala -> span
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/patmat/Huffman.scala -> str
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/patmat/Huffman.scala -> t1
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/patmat/Huffman.scala -> t2
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/patmat/Huffman.scala -> text
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/patmat/Huffman.scala -> times
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/patmat/Huffman.scala -> toInt
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/patmat/Huffman.scala -> toList
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/patmat/Huffman.scala -> toString
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/patmat/Huffman.scala -> tree
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/patmat/Huffman.scala -> treeSpan
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/patmat/Huffman.scala -> trees
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/patmat/Huffman.scala -> ts
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/patmat/Huffman.scala -> tx
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/patmat/Huffman.scala -> typedProductIterator
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/patmat/Huffman.scala -> unapplySeq
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/patmat/Huffman.scala -> unary_!
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/patmat/Huffman.scala -> until
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/patmat/Huffman.scala -> update
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/patmat/Huffman.scala -> weight
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/patmat/Huffman.scala -> ||
+product stamps:
+15 items
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/target/scala-2.11/classes/common/package$$anonfun$subFile$1.class -> lastModified(1536603599159)
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/target/scala-2.11/classes/common/package$.class -> lastModified(1536603599151)
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/target/scala-2.11/classes/common/package.class -> lastModified(1536603599115)
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$1.class -> lastModified(1536603599195)
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$2.class -> lastModified(1536603599195)
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$createCodeTree$1.class -> lastModified(1536603599199)
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$createCodeTree$2.class -> lastModified(1536603599199)
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$times$1.class -> lastModified(1536603599199)
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/target/scala-2.11/classes/patmat/Huffman$.class -> lastModified(1536603599191)
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/target/scala-2.11/classes/patmat/Huffman$CodeTree.class -> lastModified(1536603599203)
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/target/scala-2.11/classes/patmat/Huffman$Fork$.class -> lastModified(1536603599203)
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/target/scala-2.11/classes/patmat/Huffman$Fork.class -> lastModified(1536603599211)
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/target/scala-2.11/classes/patmat/Huffman$Leaf$.class -> lastModified(1536603599215)
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/target/scala-2.11/classes/patmat/Huffman$Leaf.class -> lastModified(1536603599219)
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/target/scala-2.11/classes/patmat/Huffman.class -> lastModified(1536603599167)
+source stamps:
+2 items
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/common/package.scala -> hash(885b8f12a5b2a83dad658f76cc1fdd678a38d4a8)
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/patmat/Huffman.scala -> hash(d57a4f79e7179edf126f9ed37d1be5a3ad933f37)
+binary stamps:
+1 items
+/home/nathan/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.12/scala-library-2.11.12.jar -> lastModified(1509673049000)
+class names:
+1 items
+/home/nathan/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.12/scala-library-2.11.12.jar -> scala.runtime.AbstractFunction2
+internal apis:
+2 items
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/common/package.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwNR5ezQABc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAYc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwxBALLnQABm5vdGlmeXNxAH4ADLd7app0AAdwYWNrYWdlc3EAfgAMJhK6tnQABHdhaXRzcQB+AAzx5+qMdAANJGFzSW5zdGFuY2VPZnNxAH4ADM2K/A90AAZlcXVhbHNzcQB+AAzxbFRpdAAMYXNJbnN0YW5jZU9mc3EAfgAMzsiFSnQADHN5bmNocm9uaXplZHNxAH4ADFjDlPV0AA0kaXNJbnN0YW5jZU9mc3EAfgAMqj2IS3QAF3Jlc291cmNlQXNTdHJlYW1Gcm9tU3Jjc3EAfgAM1Ez2oXQACW5vdGlmeUFsbHNxAH4ADCYkqcp0AAxpc0luc3RhbmNlT2ZzcQB+AAxpxNpvdAADPz8/c3EAfgAMmnpgkXQAAj09c3EAfgAM2tY31nQABWNsb25lc3EAfgAMZ0zWI3QAB3N1YkZpbGVzcQB+AAwkK+HodAAIdG9TdHJpbmdzcQB+AAw/usRqdAACIT1zcQB+AAzTr+AcdAAIZ2V0Q2xhc3NzcQB+AAwIKkOTdAACbmVzcQB+AAwadAmLdAACZXFzcQB+AAyTEjXPdAACIyNzcQB+AAyruj4odAAIZmluYWxpemVzcQB+AAzDjCCldAAIaGFzaENvZGVzcQB+AAx7bUT0dAADKioqc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AR3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHQADmNvbW1vbi5wYWNrYWdldXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAXQAJmpkay5pbnRlcm5hbC5Ib3RTcG90SW50cmluc2ljQ2FuZGlkYXRlc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AGBzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AR0wACWluaGVyaXRlZHEAfgBHTAAHcGFyZW50c3EAfgBHeHEAfgBlc3EAfgBgdXEAfgBCAAAAAHNxAH4AYHVxAH4AQgAAAABzcQB+AGB1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AGR0AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AGRzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AH10AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AH5zcQB+AHF0AANBbnlzcQB+AHVzcQB+AHh1cQB+AHsAAAACc3EAfgB9dAAFc2NhbGFxAH4AhHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQABmNvbW1vbnNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZcS2Jfh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABaL2hvbWUvbmF0aGFuL1Byb2dyYW1taW5nL3NjYWxhX3NwZWNpYWxpemF0aW9uL1BhcnQxL1dlZWs0L3BhdG1hdC90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUiFuPEqWyqD2tZY92zB/dZ4o41Kg=
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/patmat/Huffman.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwdVkL/wAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAA/c3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwUWJ9KXQABm5vdGlmeXNxAH4ADOPjQIN0AAxtYWtlQ29kZVRyZWVzcQB+AAww19/AdAAGc2VjcmV0c3EAfgAM+eYOCXQAB3VuYXBwbHlzcQB+AAymkAlEdAAGZW5jb2Rlc3EAfgAMYbD+jXQABndlaWdodHNxAH4ADHtAd9p0AAdjdXJyaWVkc3EAfgAM2fgDJnQABHdhaXRzcQB+AAw/TF2FdAAOY29weSRkZWZhdWx0JDJzcQB+AAyfMkQ+dAANJGFzSW5zdGFuY2VPZnNxAH4ADKFPmqN0AAxwcm9kdWN0QXJpdHlzcQB+AAytikLFdAAGZXF1YWxzc3EAfgAMU0v47nQAC3F1aWNrRW5jb2Rlc3EAfgAMZyVeY3QADGFzSW5zdGFuY2VPZnNxAH4ADJnCMkl0AAxzeW5jaHJvbml6ZWRzcQB+AAwzgt2YdAAEbGVmdHNxAH4ADC8/JqF0AA0kaXNJbnN0YW5jZU9mc3EAfgAM5G1jmHQABnR1cGxlZHNxAH4ADCLp1Md0AAdIdWZmbWFuc3EAfgAMrzPg1XQACGNhbkVxdWFsc3EAfgAM3LgqmXQADmNvcHkkZGVmYXVsdCQ0c3EAfgAM6aMAh3QABGNoYXJzcQB+AAy4FAb8dAAGZGVjb2Rlc3EAfgAMkvT5NHQABExlYWZzcQB+AAzUn/iQdAAIY29kZUJpdHNzcQB+AAwEhdRkdAANcHJvZHVjdFByZWZpeHNxAH4ADOyyH4x0AAV1bnRpbHNxAH4ADNaygLF0AApmcmVuY2hDb2Rlc3EAfgAMF1XOA3QACW5vdGlmeUFsbHNxAH4ADOrGGQ50AAVjaGFyc3NxAH4ADArqKv90AAxpc0luc3RhbmNlT2ZzcQB+AAw0cbMjdAAGPGluaXQ+c3EAfgAM2+5dGXQABWFwcGx5c3EAfgAM/kzrr3QADWRlY29kZWRTZWNyZXRzcQB+AAwk6L+cdAACPT1zcQB+AAzv1mgFdAAFY2xvbmVzcQB+AAwYFyThdAAPbWVyZ2VDb2RlVGFibGVzc3EAfgAMCCr1QHQABXRpbWVzc3EAfgAMS89n5nQABiRpbml0JHNxAH4ADPNo+jJ0AAdjb21iaW5lc3EAfgAMmiZunnQADmNvcHkkZGVmYXVsdCQzc3EAfgAMvj6PcnQABGNvcHlzcQB+AAxf3ETIdAAMc3RyaW5nMkNoYXJzc3EAfgAM1GDg6nQACHRvU3RyaW5nc3EAfgAMjocP53QACXNpbmdsZXRvbnNxAH4ADNqLXi10AAIhPXNxAH4ADGoJEUh0AAhnZXRDbGFzc3NxAH4ADBoL2sF0AAlDb2RlVGFibGVzcQB+AAxHYPjfdAAOY3JlYXRlQ29kZVRyZWVzcQB+AAxF8kE2dAAOY29weSRkZWZhdWx0JDFzcQB+AAySTXI6dAAERm9ya3NxAH4ADCXGoJJ0AANCaXRzcQB+AAyykPVvdAACbmVzcQB+AAxDwK/IdAATbWFrZU9yZGVyZWRMZWFmTGlzdHNxAH4ADOCpjvF0AAhDb2RlVHJlZXNxAH4ADMd0bZF0AAJlcXNxAH4ADId5BKh0AAdjb252ZXJ0c3EAfgAMXh7u1XQAD3Byb2R1Y3RJdGVyYXRvcnNxAH4ADBmtLgZ0AAVyaWdodHNxAH4ADCGmWoh0AAIjI3NxAH4ADMcGqC90AAhmaW5hbGl6ZXNxAH4ADFUl1x50AA5wcm9kdWN0RWxlbWVudHNxAH4ADP4uOLJ0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AJV4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cAB0AA5wYXRtYXQuSHVmZm1hbnVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAAF0ACZqZGsuaW50ZXJuYWwuSG90U3BvdEludHJpbnNpY0NhbmRpZGF0ZXNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgCuc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AJVMAAlpbmhlcml0ZWRxAH4AlUwAB3BhcmVudHNxAH4AlXhxAH4As3NxAH4ArnVxAH4AkAAAAABzcQB+AK51cQB+AJAAAAAAc3EAfgCudXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgCydAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgCyc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgDLdAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgDMc3EAfgC/dAADQW55c3EAfgDDc3EAfgDGdXEAfgDJAAAAAnNxAH4Ay3QABXNjYWxhcQB+ANJ1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AAZwYXRtYXRzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAWXEtiX4dXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAWi9ob21lL25hdGhhbi9Qcm9ncmFtbWluZy9zY2FsYV9zcGVjaWFsaXphdGlvbi9QYXJ0MS9XZWVrNC9wYXRtYXQvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFNV6T3nnF57fEm+e030b5aOtkz83
+external apis:
+0 items
+source infos:
+2 items
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/common/package.scala -> 
+AAAAAAAAAAA=
+/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/patmat/Huffman.scala -> 
+AAAABQAAAQAAAIYARCAgZGVmIGNvbWJpbmUodHJlZXM6IExpc3RbQ29kZVRyZWVdKTogTGlzdFtDb2RlVHJlZV0gPSB0cmVlcyBtYXRjaCB7AQAAEPcBAAAANwEANyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICABAGQvaG9tZS9uYXRoYW4vUHJvZ3JhbW1pbmcvc2NhbGFfc3BlY2lhbGl6YXRpb24vUGFydDEvV2VlazQvcGF0bWF0L3NyYy9tYWluL3NjYWxhL3BhdG1hdC9IdWZmbWFuLnNjYWxhAQBkL2hvbWUvbmF0aGFuL1Byb2dyYW1taW5nL3NjYWxhX3NwZWNpYWxpemF0aW9uL1BhcnQxL1dlZWs0L3BhdG1hdC9zcmMvbWFpbi9zY2FsYS9wYXRtYXQvSHVmZm1hbi5zY2FsYQBGbWF0Y2ggbWF5IG5vdCBiZSBleGhhdXN0aXZlLgpJdCB3b3VsZCBmYWlsIG9uIHRoZSBmb2xsb3dpbmcgaW5wdXQ6IE5pbAEAAAEAAAC3AFAgICAgZGVmIGxvb3AodHJlZTogQ29kZVRyZWUsIGJpdHM6IExpc3RbQml0XSk6IExpc3RbQ2hhcl0gPSAodHJlZSwgYml0cykgbWF0Y2ggewEAABidAQAAADwBADwgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICABAGQvaG9tZS9uYXRoYW4vUHJvZ3JhbW1pbmcvc2NhbGFfc3BlY2lhbGl6YXRpb24vUGFydDEvV2VlazQvcGF0bWF0L3NyYy9tYWluL3NjYWxhL3BhdG1hdC9IdWZmbWFuLnNjYWxhAQBkL2hvbWUvbmF0aGFuL1Byb2dyYW1taW5nL3NjYWxhX3NwZWNpYWxpemF0aW9uL1BhcnQxL1dlZWs0L3BhdG1hdC9zcmMvbWFpbi9zY2FsYS9wYXRtYXQvSHVmZm1hbi5zY2FsYQCYbWF0Y2ggbWF5IG5vdCBiZSBleGhhdXN0aXZlLgpJdCB3b3VsZCBmYWlsIG9uIHRoZSBmb2xsb3dpbmcgaW5wdXRzOiAoRm9yayhfLCBfLCBfLCBfKSwgTGlzdChfKSksIChfLCBMaXN0KDApKSwgKF8sIExpc3QoMSkpLCAoXywgTGlzdCg/PykpLCAoXywgTGlzdChfKSkBAAABAAABNABPICAgIGRlZiBsb29wKHRyZWU6Q29kZVRyZWUpKHRleHQ6IExpc3RbQ2hhcl0pOiBMaXN0W0JpdF0gPSAodHJlZSwgdGV4dCkgbWF0Y2ggewEAACibAQAAADsBADsgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAEAZC9ob21lL25hdGhhbi9Qcm9ncmFtbWluZy9zY2FsYV9zcGVjaWFsaXphdGlvbi9QYXJ0MS9XZWVrNC9wYXRtYXQvc3JjL21haW4vc2NhbGEvcGF0bWF0L0h1ZmZtYW4uc2NhbGEBAGQvaG9tZS9uYXRoYW4vUHJvZ3JhbW1pbmcvc2NhbGFfc3BlY2lhbGl6YXRpb24vUGFydDEvV2VlazQvcGF0bWF0L3NyYy9tYWluL3NjYWxhL3BhdG1hdC9IdWZmbWFuLnNjYWxhAE9tYXRjaCBtYXkgbm90IGJlIGV4aGF1c3RpdmUuCkl0IHdvdWxkIGZhaWwgb24gdGhlIGZvbGxvd2luZyBpbnB1dDogKF8sIExpc3QoXykpAQAAAQAAAG0AVyAgICBmcmVxcy5zb3J0V2l0aCgocDE6IFBhaXJbQ2hhciwgSW50XSwgcDI6IFBhaXJbQ2hhciwgSW50XSkgPT4gcDEuXzIgPCBwMi5fMikgbWF0Y2ggewEAAA1TAQAAABgBABggICAgICAgICAgICAgICAgICAgICAgICABAGQvaG9tZS9uYXRoYW4vUHJvZ3JhbW1pbmcvc2NhbGFfc3BlY2lhbGl6YXRpb24vUGFydDEvV2VlazQvcGF0bWF0L3NyYy9tYWluL3NjYWxhL3BhdG1hdC9IdWZmbWFuLnNjYWxhAQBkL2hvbWUvbmF0aGFuL1Byb2dyYW1taW5nL3NjYWxhX3NwZWNpYWxpemF0aW9uL1BhcnQxL1dlZWs0L3BhdG1hdC9zcmMvbWFpbi9zY2FsYS9wYXRtYXQvSHVmZm1hbi5zY2FsYQBVdHlwZSBQYWlyIGluIG9iamVjdCBQcmVkZWYgaXMgZGVwcmVjYXRlZDogVXNlIGJ1aWx0LWluIHR1cGxlIHN5bnRheCBvciBUdXBsZTIgaW5zdGVhZAEAAAEAAABtAFcgICAgZnJlcXMuc29ydFdpdGgoKHAxOiBQYWlyW0NoYXIsIEludF0sIHAyOiBQYWlyW0NoYXIsIEludF0pID0+IHAxLl8yIDwgcDIuXzIpIG1hdGNoIHsBAAANaAEAAAAtAQAtICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgAQBkL2hvbWUvbmF0aGFuL1Byb2dyYW1taW5nL3NjYWxhX3NwZWNpYWxpemF0aW9uL1BhcnQxL1dlZWs0L3BhdG1hdC9zcmMvbWFpbi9zY2FsYS9wYXRtYXQvSHVmZm1hbi5zY2FsYQEAZC9ob21lL25hdGhhbi9Qcm9ncmFtbWluZy9zY2FsYV9zcGVjaWFsaXphdGlvbi9QYXJ0MS9XZWVrNC9wYXRtYXQvc3JjL21haW4vc2NhbGEvcGF0bWF0L0h1ZmZtYW4uc2NhbGEAVXR5cGUgUGFpciBpbiBvYmplY3QgUHJlZGVmIGlzIGRlcHJlY2F0ZWQ6IFVzZSBidWlsdC1pbiB0dXBsZSBzeW50YXggb3IgVHVwbGUyIGluc3RlYWQBAAAAAA==
+compilations:
+1 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZcS2Jfh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAWi9ob21lL25hdGhhbi9Qcm9ncmFtbWluZy9zY2FsYV9zcGVjaWFsaXphdGlvbi9QYXJ0MS9XZWVrNC9wYXRtYXQvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=

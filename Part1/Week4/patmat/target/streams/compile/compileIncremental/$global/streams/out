@@ -1,0 +1,67 @@
+[0m[[0mdebug[0m] [0m[naha] [0m
+[0m[[0mdebug[0m] [0m[naha] Initial source changes: [0m
+[0m[[0mdebug[0m] [0m[naha] 	removed:Set()[0m
+[0m[[0mdebug[0m] [0m[naha] 	added: Set(/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/common/package.scala, /home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/patmat/Huffman.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] 	modified: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidated products: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] External API changes: API Changes: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Modified binary dependencies: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Initial directly invalidated sources: Set(/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/common/package.scala, /home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/patmat/Huffman.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] [0m
+[0m[[0mdebug[0m] [0m[naha] Sources indirectly invalidated by:[0m
+[0m[[0mdebug[0m] [0m[naha] 	product: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] 	binary dep: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] 	external source: Set()[0m
+[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set(/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/common/package.scala, /home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/patmat/Huffman.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/common/package.scala, /home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/patmat/Huffman.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Recompiling all 2 sources: invalidated sources (2) exceeded 50.0% of all sources[0m
+[0m[[0minfo[0m] [0mCompiling 2 Scala sources to /home/nathan/Programming/scala_specialization/Part1/Week4/patmat/target/scala-2.11/classes...[0m
+[0m[[0mdebug[0m] [0mGetting org.scala-sbt:compiler-interface:0.13.17:component from component compiler for Scala 2.11.12[0m
+[0m[[0mdebug[0m] [0mGetting org.scala-sbt:compiler-interface:0.13.17:component from component compiler for Scala 2.11.12[0m
+[0m[[0mdebug[0m] [0mRunning cached compiler 3d8886c5, interfacing (CompilerInterface) with Scala compiler version 2.11.12[0m
+[0m[[0mdebug[0m] [0mCalling Scala compiler with arguments  (CompilerInterface):[0m
+[0m[[0mdebug[0m] [0m	-deprecation[0m
+[0m[[0mdebug[0m] [0m	-bootclasspath[0m
+[0m[[0mdebug[0m] [0m	/home/nathan/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.12/scala-library-2.11.12.jar[0m
+[0m[[0mdebug[0m] [0m	-classpath[0m
+[0m[[0mdebug[0m] [0m	/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/target/scala-2.11/classes:/home/nathan/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.11.12/scala-reflect-2.11.12.jar:/home/nathan/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-parser-combinators_2.11/1.0.4/scala-parser-combinators_2.11-1.0.4.jar:/home/nathan/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.11/1.0.2/scala-xml_2.11-1.0.2.jar:/home/nathan/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scalatest/scalatest_2.11/2.2.4/scalatest_2.11-2.2.4.jar[0m
+[0m[[33mwarn[0m] [0m/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/patmat/Huffman.scala:134: match may not be exhaustive.[0m
+[0m[[33mwarn[0m] [0mIt would fail on the following input: Nil[0m
+[0m[[33mwarn[0m] [0m  def combine(trees: List[CodeTree]): List[CodeTree] = trees match {[0m
+[0m[[33mwarn[0m] [0m                                                       ^[0m
+[0m[[33mwarn[0m] [0m/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/patmat/Huffman.scala:183: match may not be exhaustive.[0m
+[0m[[33mwarn[0m] [0mIt would fail on the following inputs: (Fork(_, _, _, _), List(_)), (_, List(0)), (_, List(1)), (_, List(??)), (_, List(_))[0m
+[0m[[33mwarn[0m] [0m    def loop(tree: CodeTree, bits: List[Bit]): List[Char] = (tree, bits) match {[0m
+[0m[[33mwarn[0m] [0m                                                            ^[0m
+[0m[[33mwarn[0m] [0m/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/patmat/Huffman.scala:308: match may not be exhaustive.[0m
+[0m[[33mwarn[0m] [0mIt would fail on the following input: (_, List(_))[0m
+[0m[[33mwarn[0m] [0m    def loop(tree:CodeTree)(text: List[Char]): List[Bit] = (tree, text) match {[0m
+[0m[[33mwarn[0m] [0m                                                           ^[0m
+[0m[[33mwarn[0m] [0m/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/patmat/Huffman.scala:109: type Pair in object Predef is deprecated: Use built-in tuple syntax or Tuple2 instead[0m
+[0m[[33mwarn[0m] [0m    freqs.sortWith((p1: Pair[Char, Int], p2: Pair[Char, Int]) => p1._2 < p2._2) match {[0m
+[0m[[33mwarn[0m] [0m                        ^[0m
+[0m[[33mwarn[0m] [0m/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/patmat/Huffman.scala:109: type Pair in object Predef is deprecated: Use built-in tuple syntax or Tuple2 instead[0m
+[0m[[33mwarn[0m] [0m    freqs.sortWith((p1: Pair[Char, Int], p2: Pair[Char, Int]) => p1._2 < p2._2) match {[0m
+[0m[[33mwarn[0m] [0m                                             ^[0m
+[0m[[33mwarn[0m] [0m5 warnings found[0m
+[0m[[0mdebug[0m] [0mScala compilation took 2.947247367 s[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating /home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/common/package.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating (transitively) by inheritance from /home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/common/package.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/common/package.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidated by transitive inheritance dependency: Set(/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/common/package.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] The /home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/common/package.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m[naha] 	notify, package, wait, $asInstanceOf, equals, asInstanceOf, synchronized, $isInstanceOf, resourceAsStreamFromSrc, notifyAll, isInstanceOf, ???, ==, clone, subFile, toString, !=, getClass, ne, eq, ##, finalize, hashCode, ***.[0m
+[0m[[0mdebug[0m] [0m[naha] All member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating /home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/patmat/Huffman.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating (transitively) by inheritance from /home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/patmat/Huffman.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/patmat/Huffman.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidated by transitive inheritance dependency: Set(/home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/patmat/Huffman.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] The /home/nathan/Programming/scala_specialization/Part1/Week4/patmat/src/main/scala/patmat/Huffman.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m[naha] 	notify, makeCodeTree, secret, unapply, encode, weight, curried, wait, copy$default$2, $asInstanceOf, productArity, equals, quickEncode, asInstanceOf, synchronized, left, $isInstanceOf, tupled, Huffman, canEqual, copy$default$4, char, decode, Leaf, codeBits, productPrefix, until, frenchCode, notifyAll, chars, isInstanceOf, <init>, apply, decodedSecret, ==, clone, mergeCodeTables, times, $init$, combine, copy$default$3, copy, string2Chars, toString, singleton, !=, getClass, CodeTable, createCodeTree, copy$default$1, Fork, Bit, ne, makeOrderedLeafList, CodeTree, eq, convert, productIterator, right, ##, finalize, productElement, hashCode.[0m
+[0m[[0mdebug[0m] [0m[naha] All member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0m[naha] New invalidations:[0m
+[0m[[0mdebug[0m] [0m[naha] 	Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Previously invalidated, but (transitively) depend on new invalidations:[0m
+[0m[[0mdebug[0m] [0m[naha] 	Set()[0m
+[0m[[0mdebug[0m] [0m[naha] All newly invalidated sources after taking into account (previously) recompiled sources:Set()[0m
