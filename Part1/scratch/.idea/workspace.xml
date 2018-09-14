@@ -2,26 +2,81 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3a137f86-6323-4f0c-b90e-f943a46d409e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Week1/example/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Week4/patmat/.idea/hydra.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Week4/patmat/.idea/libraries/sbt__junit_junit_4_10_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Week4/patmat/.idea/libraries/sbt__org_hamcrest_hamcrest_core_1_1_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Week4/patmat/.idea/libraries/sbt__org_scala_lang_modules_scala_parser_combinators_2_11_1_0_4_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Week4/patmat/.idea/libraries/sbt__org_scala_lang_modules_scala_xml_2_11_1_0_2_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Week4/patmat/.idea/libraries/sbt__org_scala_lang_scala_library_2_11_12_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Week4/patmat/.idea/libraries/sbt__org_scala_lang_scala_reflect_2_11_12_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Week4/patmat/.idea/libraries/sbt__org_scalatest_scalatest_2_11_2_2_4_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Week4/patmat/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Week4/patmat/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Week4/patmat/.idea/modules/progfun1-patmat.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Week4/patmat/.idea/modules/root-build.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Week4/patmat/.idea/sbt.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Week4/patmat/.idea/scala_compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Week4/patmat/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Week4/patmat/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/Week4/session4_1.sc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Week1/example/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Week1/example/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Week3/objsets/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Week3/objsets/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week4/patmat/.idea/modules/progfun1-patmat.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Week4/patmat/.idea/modules/progfun1-patmat.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week4/patmat/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Week4/patmat/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week4/patmat/project/target/config-classes/$06b19a6fc18192fea6d7$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week4/patmat/project/target/config-classes/$06b19a6fc18192fea6d7$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week4/patmat/project/target/config-classes/$06b19a6fc18192fea6d7.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week4/patmat/project/target/config-classes/$06b19a6fc18192fea6d7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week4/patmat/project/target/config-classes/$1abe3f6606895fbf2f7e$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week4/patmat/project/target/config-classes/$1abe3f6606895fbf2f7e$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week4/patmat/project/target/config-classes/$1abe3f6606895fbf2f7e.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week4/patmat/project/target/config-classes/$1abe3f6606895fbf2f7e.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week4/patmat/project/target/config-classes/$3e80da28504357e11df3$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week4/patmat/project/target/config-classes/$3e80da28504357e11df3$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week4/patmat/project/target/config-classes/$3e80da28504357e11df3.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week4/patmat/project/target/config-classes/$3e80da28504357e11df3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week4/patmat/project/target/config-classes/$7922b35bf02c48cbf061$$anonfun$$sbtdef$1$$anonfun$apply$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week4/patmat/project/target/config-classes/$7922b35bf02c48cbf061$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week4/patmat/project/target/config-classes/$7922b35bf02c48cbf061$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week4/patmat/project/target/config-classes/$7922b35bf02c48cbf061.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week4/patmat/project/target/config-classes/$7922b35bf02c48cbf061.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week4/patmat/project/target/config-classes/$85c20fcd65d47f045440$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week4/patmat/project/target/config-classes/$85c20fcd65d47f045440$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week4/patmat/project/target/config-classes/$85c20fcd65d47f045440.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week4/patmat/project/target/config-classes/$85c20fcd65d47f045440.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week4/patmat/project/target/config-classes/$8b83769eea3a1ef9289a$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week4/patmat/project/target/config-classes/$8b83769eea3a1ef9289a$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week4/patmat/project/target/config-classes/$8b83769eea3a1ef9289a.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week4/patmat/project/target/config-classes/$8b83769eea3a1ef9289a.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week4/patmat/project/target/config-classes/$9132913c18b268352c27$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week4/patmat/project/target/config-classes/$9132913c18b268352c27$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week4/patmat/project/target/config-classes/$9132913c18b268352c27.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week4/patmat/project/target/config-classes/$9132913c18b268352c27.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week4/patmat/project/target/config-classes/$93dca72ae8af8b8d8f67$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week4/patmat/project/target/config-classes/$93dca72ae8af8b8d8f67$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week4/patmat/project/target/config-classes/$93dca72ae8af8b8d8f67.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week4/patmat/project/target/config-classes/$93dca72ae8af8b8d8f67.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week4/patmat/project/target/config-classes/$d77e80d34b8d29dc894d$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week4/patmat/project/target/config-classes/$d77e80d34b8d29dc894d$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week4/patmat/project/target/config-classes/$d77e80d34b8d29dc894d.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week4/patmat/project/target/config-classes/$d77e80d34b8d29dc894d.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week4/patmat/project/target/config-classes/$fb56fa0b764c1c46a16e$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week4/patmat/project/target/config-classes/$fb56fa0b764c1c46a16e$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week4/patmat/project/target/config-classes/$fb56fa0b764c1c46a16e.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week4/patmat/project/target/config-classes/$fb56fa0b764c1c46a16e.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week4/patmat/project/target/scala-2.10/sbt-0.13/resolution-cache/default/patmat-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../Week4/patmat/project/target/scala-2.10/sbt-0.13/resolution-cache/default/patmat-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week4/patmat/project/target/scala-2.10/sbt-0.13/resolution-cache/default/patmat-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Week4/patmat/project/target/scala-2.10/sbt-0.13/resolution-cache/default/patmat-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week4/patmat/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-patmat-build-compile-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Week4/patmat/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-patmat-build-compile-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week4/patmat/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-patmat-build-compile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Week4/patmat/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-patmat-build-compile.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week4/patmat/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-patmat-build-docs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Week4/patmat/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-patmat-build-docs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week4/patmat/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-patmat-build-optional.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Week4/patmat/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-patmat-build-optional.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week4/patmat/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-patmat-build-plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Week4/patmat/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-patmat-build-plugin.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week4/patmat/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-patmat-build-pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Week4/patmat/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-patmat-build-pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week4/patmat/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-patmat-build-provided.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Week4/patmat/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-patmat-build-provided.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week4/patmat/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-patmat-build-runtime-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Week4/patmat/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-patmat-build-runtime-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week4/patmat/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-patmat-build-runtime.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Week4/patmat/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-patmat-build-runtime.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week4/patmat/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-patmat-build-scala-tool.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Week4/patmat/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-patmat-build-scala-tool.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week4/patmat/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-patmat-build-sources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Week4/patmat/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-patmat-build-sources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week4/patmat/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-patmat-build-test-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Week4/patmat/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-patmat-build-test-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week4/patmat/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-patmat-build-test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Week4/patmat/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-patmat-build-test.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week4/patmat/project/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.10/output_dsp" beforeDir="false" afterPath="$PROJECT_DIR$/../Week4/patmat/project/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.10/output_dsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week4/patmat/project/target/streams/$global/update/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../Week4/patmat/project/target/streams/$global/update/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week4/patmat/project/target/streams/$global/update/$global/streams/update_cache_2.10/output" beforeDir="false" afterPath="$PROJECT_DIR$/../Week4/patmat/project/target/streams/$global/update/$global/streams/update_cache_2.10/output" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week4/patmat/project/target/streams/compile/compileIncremental/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../Week4/patmat/project/target/streams/compile/compileIncremental/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week4/patmat/project/target/streams/compile/copyResources/$global/streams/copy-resources" beforeDir="false" afterPath="$PROJECT_DIR$/../Week4/patmat/project/target/streams/compile/copyResources/$global/streams/copy-resources" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week4/patmat/project/target/streams/compile/incCompileSetup/$global/streams/inc_compile_2.10" beforeDir="false" afterPath="$PROJECT_DIR$/../Week4/patmat/project/target/streams/compile/incCompileSetup/$global/streams/inc_compile_2.10" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week4/patmat/src/main/scala/patmat/Huffman.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../Week4/patmat/src/main/scala/patmat/Huffman.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week4/patmat/src/test/scala/patmat/HuffmanSuite.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../Week4/patmat/src/test/scala/patmat/HuffmanSuite.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week4/patmat/target/.history" beforeDir="false" afterPath="$PROJECT_DIR$/../Week4/patmat/target/.history" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week4/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Week4/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week4/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$createCodeTree$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Week4/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$createCodeTree$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week4/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$createCodeTree$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Week4/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$createCodeTree$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week4/patmat/target/scala-2.11/classes/patmat/Huffman$.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Week4/patmat/target/scala-2.11/classes/patmat/Huffman$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week4/patmat/target/scala-2.11/test-classes/patmat/HuffmanSuite$$anonfun$7$$anon$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Week4/patmat/target/scala-2.11/test-classes/patmat/HuffmanSuite$$anonfun$7$$anon$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week4/patmat/target/scala-2.11/test-classes/patmat/HuffmanSuite.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Week4/patmat/target/scala-2.11/test-classes/patmat/HuffmanSuite.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week4/patmat/target/streams/compile/compileIncremental/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../Week4/patmat/target/streams/compile/compileIncremental/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week4/patmat/target/streams/compile/incCompileSetup/$global/streams/inc_compile_2.11" beforeDir="false" afterPath="$PROJECT_DIR$/../Week4/patmat/target/streams/compile/incCompileSetup/$global/streams/inc_compile_2.11" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -73,14 +128,15 @@
     <session id="63995891">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="9" />
+          <entry key="project.closed" value="11" />
           <entry key="project.open.time.0" value="5" />
           <entry key="project.open.time.17" value="1" />
+          <entry key="project.open.time.18" value="1" />
           <entry key="project.open.time.19" value="1" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.20" value="1" />
           <entry key="project.open.time.3" value="1" />
-          <entry key="project.opened" value="10" />
+          <entry key="project.opened" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -221,6 +277,8 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -274,8 +332,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -357,9 +413,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1080" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20277481" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20490928" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
