@@ -19,7 +19,7 @@ object session1_5 {
   sqrt(4)
   sqrt(1e-6)
   sqrt(1e60)
-  sqrt(1e-21)
+  sqrt(1e-20)
   sqrt(1e20)
   sqrt(1e50)
 }

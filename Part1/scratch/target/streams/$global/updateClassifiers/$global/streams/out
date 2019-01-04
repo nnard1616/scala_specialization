@@ -281,51 +281,39 @@
 [debug] == resolving dependencies default#scratch$sources;0.1->org.scala-lang#scala-reflect;2.12.6 [scala-tool->master]
 [debug] 	resolved ivy file produced in cache
 [debug] :: downloading artifacts ::
-[debug] 		tried /home/nathan/.ivy2/local/org.scala-lang/scala-reflect/2.12.6/srcs/scala-reflect-sources.jar
-[debug] 		tried /home/nathan/.ivy2/local/jline/jline/2.14.6/srcs/jline-sources.jar
-[debug] 		tried /home/nathan/.ivy2/local/org.scala-lang/scala-library/2.12.6/srcs/scala-library-sources.jar
 [debug] 		tried /home/nathan/.ivy2/local/org.scala-lang/scala-compiler/2.12.6/srcs/scala-compiler-sources.jar
-[debug] 		tried /home/nathan/.ivy2/local/org.scala-lang.modules/scala-xml_2.12/1.0.6/srcs/scala-xml_2.12-sources.jar
-[debug] 		tried https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.12/1.0.6/scala-xml_2.12-1.0.6-sources.jar
-[debug] 		tried https://repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.12.6/scala-reflect-2.12.6-sources.jar
+[debug] 		tried /home/nathan/.ivy2/local/org.scala-lang/scala-library/2.12.6/srcs/scala-library-sources.jar
 [debug] 		tried https://repo1.maven.org/maven2/org/scala-lang/scala-library/2.12.6/scala-library-2.12.6-sources.jar
 [debug] 		tried https://repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.12.6/scala-compiler-2.12.6-sources.jar
-[debug] 		tried https://repo1.maven.org/maven2/jline/jline/2.14.6/jline-2.14.6-sources.jar
-[info] downloading https://repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.12.6/scala-reflect-2.12.6-sources.jar ...
-[info] downloading https://repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.12.6/scala-compiler-2.12.6-sources.jar ...
-[info] downloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.12/1.0.6/scala-xml_2.12-1.0.6-sources.jar ...
-[debug] 	public: downloading https://repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.12.6/scala-compiler-2.12.6-sources.jar
-[debug] 	public: downloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.12/1.0.6/scala-xml_2.12-1.0.6-sources.jar
-[debug] 	public: downloading https://repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.12.6/scala-reflect-2.12.6-sources.jar
-[info] downloading https://repo1.maven.org/maven2/jline/jline/2.14.6/jline-2.14.6-sources.jar ...
-[debug] 	public: downloading https://repo1.maven.org/maven2/jline/jline/2.14.6/jline-2.14.6-sources.jar
+[debug] 	[NOT REQUIRED] jline#jline;2.14.6!jline.jar(src)
+[debug] 	[NOT REQUIRED] org.scala-lang.modules#scala-xml_2.12;1.0.6!scala-xml_2.12.jar(src)
+[debug] 		tried /home/nathan/.ivy2/local/org.scala-lang/scala-reflect/2.12.6/srcs/scala-reflect-sources.jar
+[debug] 		tried https://repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.12.6/scala-reflect-2.12.6-sources.jar
 [info] downloading https://repo1.maven.org/maven2/org/scala-lang/scala-library/2.12.6/scala-library-2.12.6-sources.jar ...
 [debug] 	public: downloading https://repo1.maven.org/maven2/org/scala-lang/scala-library/2.12.6/scala-library-2.12.6-sources.jar
-[debug] 	public: downloading https://repo1.maven.org/maven2/jline/jline/2.14.6/jline-2.14.6-sources.jar.sha1
-[debug] 	public: downloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.12/1.0.6/scala-xml_2.12-1.0.6-sources.jar.sha1
+[info] downloading https://repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.12.6/scala-compiler-2.12.6-sources.jar ...
+[info] downloading https://repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.12.6/scala-reflect-2.12.6-sources.jar ...
+[debug] 	public: downloading https://repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.12.6/scala-compiler-2.12.6-sources.jar
+[debug] 	public: downloading https://repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.12.6/scala-reflect-2.12.6-sources.jar
 [debug] 	public: downloading https://repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.12.6/scala-reflect-2.12.6-sources.jar.sha1
 [debug] 	public: downloading https://repo1.maven.org/maven2/org/scala-lang/scala-library/2.12.6/scala-library-2.12.6-sources.jar.sha1
-[debug] sha1 OK for https://repo1.maven.org/maven2/jline/jline/2.14.6/jline-2.14.6-sources.jar
-[debug] sha1 OK for https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.12/1.0.6/scala-xml_2.12-1.0.6-sources.jar
-[info] 	[SUCCESSFUL ] jline#jline;2.14.6!jline.jar(src) (2162ms)
-[info] 	[SUCCESSFUL ] org.scala-lang.modules#scala-xml_2.12;1.0.6!scala-xml_2.12.jar(src) (2163ms)
 [debug] 	public: downloading https://repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.12.6/scala-compiler-2.12.6-sources.jar.sha1
 [debug] sha1 OK for https://repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.12.6/scala-reflect-2.12.6-sources.jar
-[info] 	[SUCCESSFUL ] org.scala-lang#scala-reflect;2.12.6!scala-reflect.jar(src) (2190ms)
+[info] 	[SUCCESSFUL ] org.scala-lang#scala-reflect;2.12.6!scala-reflect.jar(src) (331ms)
 [debug] sha1 OK for https://repo1.maven.org/maven2/org/scala-lang/scala-library/2.12.6/scala-library-2.12.6-sources.jar
-[info] 	[SUCCESSFUL ] org.scala-lang#scala-library;2.12.6!scala-library.jar(src) (2216ms)
+[info] 	[SUCCESSFUL ] org.scala-lang#scala-library;2.12.6!scala-library.jar(src) (347ms)
 [debug] sha1 OK for https://repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.12.6/scala-compiler-2.12.6-sources.jar
-[info] 	[SUCCESSFUL ] org.scala-lang#scala-compiler;2.12.6!scala-compiler.jar(src) (2231ms)
-[debug] :: resolution report :: resolve 12ms :: artifacts dl 2234ms
-[debug] 	report for default#scratch$sources;0.1 compile produced in /home/nathan/Programming/scala_specialization/Part1/Week1/scratch/target/scala-2.12/resolution-cache/reports/default-scratch$sources-compile.xml
-[debug] 	report for default#scratch$sources;0.1 runtime produced in /home/nathan/Programming/scala_specialization/Part1/Week1/scratch/target/scala-2.12/resolution-cache/reports/default-scratch$sources-runtime.xml
-[debug] 	report for default#scratch$sources;0.1 test produced in /home/nathan/Programming/scala_specialization/Part1/Week1/scratch/target/scala-2.12/resolution-cache/reports/default-scratch$sources-test.xml
-[debug] 	report for default#scratch$sources;0.1 provided produced in /home/nathan/Programming/scala_specialization/Part1/Week1/scratch/target/scala-2.12/resolution-cache/reports/default-scratch$sources-provided.xml
-[debug] 	report for default#scratch$sources;0.1 optional produced in /home/nathan/Programming/scala_specialization/Part1/Week1/scratch/target/scala-2.12/resolution-cache/reports/default-scratch$sources-optional.xml
-[debug] 	report for default#scratch$sources;0.1 compile-internal produced in /home/nathan/Programming/scala_specialization/Part1/Week1/scratch/target/scala-2.12/resolution-cache/reports/default-scratch$sources-compile-internal.xml
-[debug] 	report for default#scratch$sources;0.1 runtime-internal produced in /home/nathan/Programming/scala_specialization/Part1/Week1/scratch/target/scala-2.12/resolution-cache/reports/default-scratch$sources-runtime-internal.xml
-[debug] 	report for default#scratch$sources;0.1 test-internal produced in /home/nathan/Programming/scala_specialization/Part1/Week1/scratch/target/scala-2.12/resolution-cache/reports/default-scratch$sources-test-internal.xml
-[debug] 	report for default#scratch$sources;0.1 plugin produced in /home/nathan/Programming/scala_specialization/Part1/Week1/scratch/target/scala-2.12/resolution-cache/reports/default-scratch$sources-plugin.xml
-[debug] 	report for default#scratch$sources;0.1 pom produced in /home/nathan/Programming/scala_specialization/Part1/Week1/scratch/target/scala-2.12/resolution-cache/reports/default-scratch$sources-pom.xml
-[debug] 	report for default#scratch$sources;0.1 scala-tool produced in /home/nathan/Programming/scala_specialization/Part1/Week1/scratch/target/scala-2.12/resolution-cache/reports/default-scratch$sources-scala-tool.xml
-[debug] 	resolve done (12ms resolve - 2234ms download)
+[info] 	[SUCCESSFUL ] org.scala-lang#scala-compiler;2.12.6!scala-compiler.jar(src) (363ms)
+[debug] :: resolution report :: resolve 10ms :: artifacts dl 364ms
+[debug] 	report for default#scratch$sources;0.1 compile produced in /home/nathan/Programming/scala_specialization/Part1/scratch/target/scala-2.12/resolution-cache/reports/default-scratch$sources-compile.xml
+[debug] 	report for default#scratch$sources;0.1 runtime produced in /home/nathan/Programming/scala_specialization/Part1/scratch/target/scala-2.12/resolution-cache/reports/default-scratch$sources-runtime.xml
+[debug] 	report for default#scratch$sources;0.1 test produced in /home/nathan/Programming/scala_specialization/Part1/scratch/target/scala-2.12/resolution-cache/reports/default-scratch$sources-test.xml
+[debug] 	report for default#scratch$sources;0.1 provided produced in /home/nathan/Programming/scala_specialization/Part1/scratch/target/scala-2.12/resolution-cache/reports/default-scratch$sources-provided.xml
+[debug] 	report for default#scratch$sources;0.1 optional produced in /home/nathan/Programming/scala_specialization/Part1/scratch/target/scala-2.12/resolution-cache/reports/default-scratch$sources-optional.xml
+[debug] 	report for default#scratch$sources;0.1 compile-internal produced in /home/nathan/Programming/scala_specialization/Part1/scratch/target/scala-2.12/resolution-cache/reports/default-scratch$sources-compile-internal.xml
+[debug] 	report for default#scratch$sources;0.1 runtime-internal produced in /home/nathan/Programming/scala_specialization/Part1/scratch/target/scala-2.12/resolution-cache/reports/default-scratch$sources-runtime-internal.xml
+[debug] 	report for default#scratch$sources;0.1 test-internal produced in /home/nathan/Programming/scala_specialization/Part1/scratch/target/scala-2.12/resolution-cache/reports/default-scratch$sources-test-internal.xml
+[debug] 	report for default#scratch$sources;0.1 plugin produced in /home/nathan/Programming/scala_specialization/Part1/scratch/target/scala-2.12/resolution-cache/reports/default-scratch$sources-plugin.xml
+[debug] 	report for default#scratch$sources;0.1 pom produced in /home/nathan/Programming/scala_specialization/Part1/scratch/target/scala-2.12/resolution-cache/reports/default-scratch$sources-pom.xml
+[debug] 	report for default#scratch$sources;0.1 scala-tool produced in /home/nathan/Programming/scala_specialization/Part1/scratch/target/scala-2.12/resolution-cache/reports/default-scratch$sources-scala-tool.xml
+[debug] 	resolve done (10ms resolve - 364ms download)

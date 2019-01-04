@@ -11,4 +11,8 @@ object session2_1 {
   }
 
   sum((x: Int) => 2 * x, 1, 10)
+
+  def fact(n: Int): Int = if (n==0) 1 else n*fact(n-1)
+
+  fact(5)
 }
